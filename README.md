@@ -4,7 +4,7 @@ Yo! I'm a Roblox scripter with 4+ years of experience mainly working with Luau/L
 
 I'm currently a student. I've worked on a few games previously (for myself) but ended up deleting them when I no longer needed them. A couple of months ago I decided to rejoin the dev forum and reshare my work.
 
-while I haven't worked on many "portfolio-worthy" files recently here are a few examples from the past 2 months.
+while I haven't worked on many "portfolio worthy" files recently here are a few examples from the past 2 months.
 
 ---
 
