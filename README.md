@@ -21,9 +21,14 @@ Ill share everything I've built and worked on over the past 2 months below.
 
 ---
 
-## 📷 Previews & Showcase
+## 📷 Previews & Showcase (some of them)
+━━━━━━━━━━━━━━ 01 ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <img width="1920" height="785" alt="image" src="https://github.com/user-attachments/assets/af01fdfb-1510-4e26-82ec-c47e51c96a53" />
-<img width="1920" height="782" alt="image" src="https://github.com/user-attachments/assets/64c26f0a-2633-4783-a117-19685e8fd55d" />
+━━━━━━━━━━━━━━ 02 ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img width="1358" height="774" alt="image" src="https://github.com/user-attachments/assets/fb1abe36-3f39-4e83-ab2e-12d41b5e7042" />
+<img width="1465" height="730" alt="image" src="https://github.com/user-attachments/assets/4bf1b0a6-f0b5-4341-9398-5c342623a42e" />
+<img width="1344" height="706" alt="image" src="https://github.com/user-attachments/assets/6c136b0d-1826-439e-a5d3-fbf772432167" />
+━━━━━━━━━━━━━━ 03 (01) ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/427905f7-2bd2-44d3-97de-2a0a320904b2" />
 <img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/2092b03c-2ba9-4734-b59d-3aaec1fec0be" />
 <img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/fd45c012-46e0-4cdf-99db-7d02cf12ca1c" />
@@ -34,18 +39,13 @@ Ill share everything I've built and worked on over the past 2 months below.
 <img width="1024" height="260" alt="image" src="https://github.com/user-attachments/assets/711bb81e-f7a4-487f-802f-d51c348a79bc" />
 <img width="1024" height="351" alt="image" src="https://github.com/user-attachments/assets/324671f1-8653-4333-81a9-380778706a01" />
 
+# DM FOR MORE!
+
 ---
 
 ## 💳 Payment & pricing
 
-- Since I joined the Dev Forum not too long ago **all work is 100% FREE for the first 3 months!**
-
-I accept payments via **USD (PayPal)** or **Robux (Group Payout / Gamepass + Tax)**. 
-
-### Payment Structures:
-- **Per-system/Fixed rate:** Best for specific modules (e.g., weapon systems/data persistence framework). Prices are agreed upon up front based on system scope
-- 50% upfront to begin work/50% up on full testing in a private test place before final file/place delivery
-- **Hourly Rate:** $15 - $30 / hour depending on complexity
+*Pricing details coming soon*
 
 ## 📬 **Contact:**
 * **Discord:** mk18carbine / fhrexe
