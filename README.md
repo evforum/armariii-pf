@@ -28,8 +28,8 @@ Ill share everything I've built and worked on over the past 2 months below.
 <img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/2092b03c-2ba9-4734-b59d-3aaec1fec0be" />
 <img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/fd45c012-46e0-4cdf-99db-7d02cf12ca1c" />
 <img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/115a98ee-9f35-4c89-9e57-81b43e8331e8" />
-<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/e04257dd-cc56-4799-8062-35385b7ce786" />
-<img width="603" height="931" alt="image" src="https://github.com/user-attachments/assets/56dfda56-3c05-4973-9653-f3febbde379d" />
+<img width="1920" height="990" alt="image" src="https://github.com/user-attachments/assets/fc9167ef-4b3c-4d78-a104-e5aecdf0f808" />
+<img width="603" height="931" alt="image" src="https://github.com/user-attachments/assets/1ed6e025-31eb-4300-be78-c61211188db5" />
 <img width="1061" height="269" alt="image" src="https://github.com/user-attachments/assets/3aa15f99-5976-43dd-971a-7f355af441e8" />
 <img width="1024" height="260" alt="image" src="https://github.com/user-attachments/assets/711bb81e-f7a4-487f-802f-d51c348a79bc" />
 <img width="1024" height="351" alt="image" src="https://github.com/user-attachments/assets/324671f1-8653-4333-81a9-380778706a01" />
