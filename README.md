@@ -15,7 +15,7 @@ I'm currently a student. I've worked on a few games previously (for myself) but 
 * Admin systems,
 * Round systems,
 * Ability systems,
-* Testing & debugging
+* Testing
 
 ---
 
