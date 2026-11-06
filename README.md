@@ -17,7 +17,7 @@ Ill share everything I've built and worked on over the past 2 months below.
 * Admin systems,
 * Round systems,
 * Ability systems,
-* Testings
+* Testing
 
 ---
 
