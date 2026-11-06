@@ -2,7 +2,7 @@
 
 Yo! I'm a Roblox scripter with 4+ years of experience mainly working with Luau/Lua. I'm still learning other programming languages.
 
-I'm currently a student. I've worked on a few games previously (for myself) but ended up deleting them when I no longer needed them. A couple of months ago I decided to join the dev forum and start sharing my work.
+I'm currently a student. I've worked on a few games previously (for myself) but ended up deleting them when I no longer needed them. A couple of months ago I decided to rejoin the dev forum and reshare my work.
 
 Over the past 2 months I've been working on a project that I'll share in the pictures below.
 
