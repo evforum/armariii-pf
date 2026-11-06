@@ -4,7 +4,7 @@ Yo! I'm a Roblox scripter with 4+ years of experience mainly working with Luau/L
 
 I'm currently a student. I've worked on a few games previously (for myself) but ended up deleting them when I no longer needed them. A couple of months ago I decided to rejoin the dev forum and reshare my work.
 
-Ill share everything I've built and worked on over the past 2 months below.
+while I haven't worked on many "portfolio-worthy" files recently here are a few examples from the past 2 months.
 
 ---
 
@@ -24,7 +24,7 @@ Ill share everything I've built and worked on over the past 2 months below.
 ## 📷 Previews & Showcase (some of them)
 ━━━━━━━━━━━━━━ 01 ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <img width="1920" height="785" alt="image" src="https://github.com/user-attachments/assets/af01fdfb-1510-4e26-82ec-c47e51c96a53" />
-━━━━━━━━━━━━━━ 02 ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━ 02 ⤵️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ **[NEW]**
 <img width="1358" height="774" alt="image" src="https://github.com/user-attachments/assets/fb1abe36-3f39-4e83-ab2e-12d41b5e7042" />
 <img width="1465" height="730" alt="image" src="https://github.com/user-attachments/assets/4bf1b0a6-f0b5-4341-9398-5c342623a42e" />
 <img width="1344" height="706" alt="image" src="https://github.com/user-attachments/assets/6c136b0d-1826-439e-a5d3-fbf772432167" />
